@@ -1,0 +1,8 @@
+alias pm="python manage.py"
+alias pmdbsh="python manage.py dbshell"
+alias pmdd="python manage.py dumpdata"
+alias pmld="python manage.py loaddata"
+alias pmsh="python manage.py shell"
+alias pmshp="python manage.py shell_plus"
+alias pmt="python manage.py test"
+alias prs="python manage.py runserver"
